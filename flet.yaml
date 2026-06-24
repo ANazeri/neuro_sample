@@ -1,4 +1,4 @@
 name: psychology_app
-product: Clinic App
+product: neurotec
 version: 1.0.0
-bundle: com.yourname.psychologyapp
+bundle: com.neuro.psychologyapp
